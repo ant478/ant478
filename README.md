@@ -2,7 +2,7 @@ Hi, my name is Gena Rusetski. I am 28 years old, married, no kids, currently loc
 
 My projects:
 
-https://github.com/ant478/web-components - old pet project made in 2019.
+https://github.com/ant478/it-roleplay - old pet project made in 2019.
 
 https://github.com/ant478/code-samples - sandbox for trying new ideas and studying stuff.
 
