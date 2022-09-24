@@ -7,3 +7,5 @@ https://github.com/ant478/it-roleplay - old pet project made in 2019.
 https://github.com/ant478/code-samples - sandbox for trying new ideas and studying stuff.
 
 https://github.com/ant478/web-components - my experiments with web components.
+
+https://github.com/ant478/push-notifications - web service for storing webPush subscriptions and sending notifications.
