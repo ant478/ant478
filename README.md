@@ -1,4 +1,4 @@
-Hi, my name is Gena Rusetski. I am 30 years old, married, no kids, currently located in Larnaca, Cyprus. I've been in commercial development for more than 8 years, and the last 7 of them as a frontend developer. During this time I have gained a rich and varied experience, but my biggest interest is developing advanced and quality web applications. I love my job, I am pretty good at it, and I love to perform it well. Also, I regularly spend time learning and practicing new tools and ideas.
+Hi, my name is Gena Rusetski. I am 31 years old, divorced, no kids, currently located in Larnaca, Cyprus. I've been in commercial development for more than 8 years, and the last 7 of them as a frontend developer. During this time I have gained a rich and varied experience, but my biggest interest is developing advanced and quality web applications. I love my job, I am pretty good at it, and I love to perform it well. Also, I regularly spend time learning and practicing new tools and ideas.
 
 My projects:
 
